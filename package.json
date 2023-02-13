@@ -14,5 +14,18 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devwithsubhrajit2002/Airbnb-Clone.git"
+  },
+  "author": "Subhrajt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devwithsubhrajit2002/Airbnb-Clone/issues"
+  },
+  "homepage": "https://github.com/devwithsubhrajit2002/Airbnb-Clone#readme",
+  "description": ""
 }
